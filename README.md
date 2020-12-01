@@ -5,5 +5,5 @@
  - OUTPUT_DIR = ./static
 
 ### TODO List
- - [] pug setting
- - [] express static setting
+ - [ ] pug setting
+ - [ ] express static setting
